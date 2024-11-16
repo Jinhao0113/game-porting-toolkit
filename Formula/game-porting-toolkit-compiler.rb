@@ -17,7 +17,7 @@ class GamePortingToolkitCompiler < Formula
   version "0.1"
   desc "Compiler for Apple Game Porting Toolkit"
   homepage "https://developer.apple.com/"
-  url "https://media.codeweavers.com/pub/crossover/source/crossover-sources-22.1.1.tar.gz", using: :nounzip
+  url "https://media.codeweavers.com/pub/crossover/source/crossover-sources-24.0.5.tar.gz", using: :nounzip
   sha256 "cdfe282ce33788bd4f969c8bfb1d3e2de060eb6c296fa1c3cdf4e4690b8b1831"
   # license ""
   
