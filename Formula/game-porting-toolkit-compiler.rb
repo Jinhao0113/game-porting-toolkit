@@ -18,7 +18,7 @@ class GamePortingToolkitCompiler < Formula
   desc "Compiler for Apple Game Porting Toolkit"
   homepage "https://developer.apple.com/"
   url "file:///Users/jinhao/code/crossover-sources-24.0.5.tar.gz", using: :nounzip
-  sha256 "9e95f17e5ba7c9bdc456119f6d930a0fa4376cd564d3668ac351064a0fa7221a"
+  sha256 "235df53cf8c4c548f8ff850aa6519a4e58fae05cb9887a21c477a904e4fb45b8"
   # license ""
   
   depends_on "cmake" => :build
